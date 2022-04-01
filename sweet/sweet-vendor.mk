@@ -257,7 +257,7 @@ PRODUCT_PACKAGES += \
     consumerir.sm6150 \
     fingerprint.fpc.sm6150 \
     libFaceGrade \
-    libMegviiFacepp-0.5.2 \
+    libMegviiFacepp-0.5.2.so_sweet \
     libPSNPE \
     libSNPE \
     libVDClearShot \
@@ -297,7 +297,7 @@ PRODUCT_PACKAGES += \
     libhta \
     libhta_hexagon_runtime \
     libhvx_interface \
-    libmegface \
+    libmegface.so_sweet \
     libmiai_portraitsupernight \
     libmialgo_fs \
     libmialgo_ie_capture \
@@ -306,7 +306,7 @@ PRODUCT_PACKAGES += \
     libmialgo_utils \
     libmialgoengine \
     libmibokeh_712 \
-    libmpbase \
+    libmpbase.so_sweet \
     libmulticam_image_optical_zoom \
     libmulticam_video_optical_zoom \
     libnotifyaudiohal \
